@@ -1,0 +1,4 @@
+https://teachablemachine.withgoogle.com/models/Bs4vx_Ry2/model.json
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleleapis.com/css2?family=Roboto+
+Slab:wght@100&display=swap" rel=stylesheet">
